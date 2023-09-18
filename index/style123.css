@@ -1,0 +1,44 @@
+.box1{
+		width:200px;
+		height:135px;
+		margin:0px auto;
+		background-color: green;
+	}
+.box2-1{
+		width:200px;
+		height:25px;
+		margin:0px auto;
+		background-color: green;
+	}
+.box2-2{
+		width:200px;
+		height:100px;
+		margin:0px auto;
+		background-color:greenyellow;
+	}
+.box2-3{
+		width:200px;
+		height:15px;
+		margin:0px auto;
+		background-color: green;
+	}
+	.content{
+		width:200px;
+		height:135px;
+		background-color:#ddd;
+		margin:0 auto;
+	}
+	.box3-1{
+		width:50px;
+		height:135px;
+		margin:0 auto;
+		background-color: green;
+		float:left;<!--左浮-->
+	}
+	.box3-2{
+		width:150px;
+		height:135px;
+		margin:0 auto;
+		background-color:greenyellow;
+		float:left;
+	}

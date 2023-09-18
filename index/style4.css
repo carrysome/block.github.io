@@ -1,0 +1,32 @@
+.header{
+	width:200px;
+	height:30px;
+	margin:0 auto;
+	background-color:green;
+}
+.content{
+	width:200px;
+	height:120px;
+	background-color:#ddd;
+	margin:0 auto;
+}
+.footer{
+	width:200px;
+	height:20px;
+	background-color:green;
+	margin:0 auto;
+}
+.r-left{
+	width:50px;
+	height:120px;
+	background-color:limegreen;
+	float: left;
+	margin:0 auto;
+}
+.r-right{
+	width:150px;
+	height:120px;
+	background-color:greenyellow;
+	float: right;
+	margin:0 auto;
+}
